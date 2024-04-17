@@ -10,13 +10,13 @@ Project description:
 
 In teams of four (4) students, we have set up a continuous integration (CI) environment that can build the software project and execute tests automatically. The environment shall respond to developer code pushes and from push, build the entire system and run, at least, unit and integration test cases but preferably system tests. The environment include:
 
-An integrated development environment ( intellij IDEA)
-A version control server ( Github)
-A continuous integration (CI) tool (e.g. Jenkins)
-An automated build tool that connects to the CI tool (e.g. Maven )
-An automated test framework for AT LEAST unit and integration tests (e.g. JUnit)
+An integrated development environment ( intellij IDEA);
+A version control server ( Github);
+A continuous integration (CI) tool (e.g. Jenkins);
+An automated build tool that connects to the CI tool (e.g. Maven );
+An automated test framework for AT LEAST unit and integration tests (e.g. JUnit).
 
 Worked in collaboration with:
-Umair Saeed Cheema
-Murtaza Naqvi 
-Irene Tejedor Herranz
+Umair Saeed Cheema;
+Murtaza Naqvi; 
+Irene Tejedor Herranz.
